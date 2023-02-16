@@ -13,5 +13,5 @@
 
 # Example-usage-
 
-1)Game start with sart. command.
+1) Game start with sart command.
 2) In the project branch you will find screenshots of the game working.
