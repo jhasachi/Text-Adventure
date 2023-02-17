@@ -1,4 +1,4 @@
-# Text-Adventure-
+# Text-Adventure
 
 1) Text based adventure games. 
 2) Rooms with textual description. 
